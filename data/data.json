@@ -1,0 +1,144 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "utterances": [
+        "hi",
+        "fifty",
+        "wake up fifty",
+        "hello fifty",
+        "50",
+        "wake up 50",
+        "good morning"
+      ],
+      "response": [
+        "Hello Sir, How can i help you?",
+        "Hello Sir, always at your service",
+        "yes sir, i am listening",
+        "hi sir, tell me what to do"
+      ]
+    },
+    {
+      "tag": "introduction",
+      "utterances": [
+        "who are you",
+        "introduce",
+        "what are you",
+        "introduce yourself",
+        "who are you"
+      ],
+      "response": [
+        "my name is 50. i am an artificial intelligence based virtual assistant, and i am here to serve you"
+      ]
+    },
+    {
+      "tag": "say",
+      "utterances": [
+        "say",
+        "speak"
+      ],
+      "response": [
+        ""
+      ]
+    },
+    {
+      "tag": "applications",
+      "utterances": [
+        "open",
+        "launch",
+        "run",
+        "close",
+        "terminate",
+        "quit"
+      ],
+      "response": [
+        "Ok sir."
+      ]
+    },
+    {
+      "tag": "google_search",
+      "utterances": [
+        "search",
+        "on google",
+        "look",
+        "find",
+        "search for google"
+      ],
+      "response": [
+        "Got it Sir.",
+        "I got the things for which you are looking for.",
+        "Give me a second sir."
+      ]
+    },
+    {
+      "tag": "wikipedia_search",
+      "utterances": [
+        "wikipedia"
+      ],
+      "response": [
+        ""
+      ]
+    },
+    {
+      "tag": "youtube_search",
+      "utterances": [
+        "play music",
+        "play song",
+        "play video",
+        "open video",
+        "play music on youtube",
+        "play song on youtube",
+        "play video on youtube"
+
+      ],
+      "response": [
+        ""
+      ]
+    },
+    {
+      "tag": "home_automation",
+      "utterances": [
+        "turn on",
+        "switch on",
+        "turn off",
+        "switch off",
+        "lights",
+        "fan",
+        "bulb"
+      ],
+      "response": [
+        ""
+      ]
+    },
+    {
+      "tag": "ip_address",
+      "utterances": [
+        "what's my ip",
+        "what is my ip",
+        "ip address",
+        "internet protocol",
+        "my ip address"
+      ],
+      "response": [
+        "sir is there anything else i can do"
+      ]
+    },
+    {
+      "tag": "shutdown",
+      "utterances": [
+        "bye bye",
+        "goodbye",
+        "exit",
+        "shutdown 50",
+        "50",
+        "see you later 50",
+        "bye 50"
+      ],
+      "response": [
+        "goodbye sir",
+        "see you later",
+        "have a nice day"
+      ]
+    }
+  ]
+}

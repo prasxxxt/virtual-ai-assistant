@@ -1,0 +1,13 @@
+{"apps":
+  {
+    "notepad": "C:\\Windows\\system32\\notepad.exe",
+    "command prompt": "C:\\Windows\\system32\\cmd.exe",
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "sites":
+  {
+    "facebook" : "https://facebook.com",
+    "twitter" : "https://twitter.com",
+    "instagram" : "https://instagram.com"
+  }
+}
